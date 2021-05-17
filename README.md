@@ -1,5 +1,5 @@
 Entrega:
-    Criar uma branch test/seunome e subir versão
+    Criar uma branch test/seunome e subir versao
     
 Descrição:
 
